@@ -1,2 +1,2 @@
 # Digitizing-Stanford-Trees
-Long-tern casual photogrammetry and rendering project.
+Long-tern in-progress casual photogrammetry and rendering project.
